@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-shell-launchers.iml" filepath="$PROJECT_DIR$/java-shell-launchers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javabang/javabang.iml" filepath="$PROJECT_DIR$/javabang/javabang.iml" />
-    </modules>
-  </component>
-</project>
