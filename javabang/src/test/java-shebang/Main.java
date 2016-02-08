@@ -1,6 +1,6 @@
 #!/usr/bin/env ../../../java.bash
 
-        import shebang_package.Package;
+import shebang_package.Package;
 
 public class Main {
     public static void main(String[] args) {
